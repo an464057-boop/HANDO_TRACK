@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  web:
+    build: .
+    container_name: atra_fastapi_app
+    ports:
+      - "8000:8000"
+    environment:
+      - FIREBASE_PROJECT_ID=transfer-system-adb99
+      - FIREBASE_CREDENTIALS_PATH=firebase-credentials.json
+    volumes:
+      - ./firebase-credentials.json:/workspace/firebase-credentials.json:ro

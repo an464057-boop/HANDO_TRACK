@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "504921218841",
+    "project_id": "transfer-system-adb99",
+    "storage_bucket": "transfer-system-adb99.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504921218841:android:d7045cce88427e64b4af88",
+        "android_client_info": {
+          "package_name": "com.company.transfer.transfer_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKNgHPYWNuyOzXNJiJMlnECkPmw7Av3Tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
