@@ -62,3 +62,22 @@ Abdo Nasser
 
 Mobile App Developer | Flutter & Dart
 
+## Screenshots
+
+### Dashboard
+
+![Dashboard](screenshots/01-dashboard-redacted.png)
+
+### Create a Transfer
+
+![Create a Transfer](screenshots/02-create-transfer-redacted.png)
+
+### Handover Request & Confirmation
+
+![Handover Request & Confirmation](screenshots/03-handover-confirmation-redacted.png)
+
+### Job Order Tracking
+
+![Job Order Tracking](screenshots/04-job-order-tracking-redacted.png)
+
+
